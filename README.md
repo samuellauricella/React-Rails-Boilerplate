@@ -9,7 +9,7 @@ CONTAINS:
 -Redux **Coming Soon***
 
 
-Heroku guide ** If issues arise run following: ****
+Heroku guide ** If issues arise run following : ****
 - npm run heroku-postbuild
 - heroku buildpacks:clear
 - heroku buildpacks:set heroku/nodejs
