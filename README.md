@@ -1,25 +1,18 @@
 # README
+ This is a React-Rails boilerplate.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+CONTAINS:
+-webpack
+-React
+-Rails
+-Heroku Procfile
+-Redux **Coming Soon***
 
-Things you may want to cover:
 
-* Ruby version
+Heroku guide ** If issues arise run following: ****
+- npm run heroku-postbuild
+- heroku buildpacks:clear
+- heroku buildpacks:set heroku/nodejs
+- heroku buildpacks:add heroku/ruby --index 2
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # React-Rails-Boilerplate
